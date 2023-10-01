@@ -102,3 +102,11 @@ clipboard instead, which does work.
 I would have liked to use the Share icon to select Pydroid3 to send it to `rt2bear100.py` directly,
 but I don't know how to make Pydroid3 appear as a choice in the Share menu yet.
 
+## Contact Information
+For questions or inquiries, you can reach out to the project maintainer:
+- Roger Brown
+- Email: rogerpbrown@gmail.com
+
+## License
+This work uses the MIT License. See [LICENSE](LICENSE) in this repository for details.
+
