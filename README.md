@@ -104,8 +104,7 @@ but I don't know how to make Pydroid3 appear as a choice in the Share menu yet.
 
 ## Contact Information
 For questions or inquiries, you can reach out to the project maintainer:
-- Roger Brown
-- Email: rogerpbrown@gmail.com
+- Roger Brown AG7YV
 
 ## License
 This work uses the MIT License. See [LICENSE](LICENSE) in this repository for details.
